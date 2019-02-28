@@ -4,7 +4,7 @@ Website For HGPS
 Hello! If you are here because I invited you, hello. 
 
 if (invitation == false) {
-  System.out.print("Hello as well")
+  System.out.print("Hello as well");
 }
 
 It's not much, but it'll do.
