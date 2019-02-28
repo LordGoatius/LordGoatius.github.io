@@ -8,6 +8,6 @@ if (invitation == false) {
 }
 
 It's not much, but it'll do.
-It's not even in Aplha rn. I'll update this as time goes on, and it'll get more professional.
+It's in Aplha rn. I'll update this as time goes on, and it'll get more professional.
 
   -Jimmy O
