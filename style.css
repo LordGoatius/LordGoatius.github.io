@@ -34,6 +34,10 @@ a {
 	font-weight: bold;
 }
 
+#navigation {
+	font-family: helvetica, arial, sans-serif;
+}
+
 #main {
 	width: 600px;
 	float: right;
@@ -43,7 +47,6 @@ a {
 #main .info {
 	color: #b20000;
 	font-weight: bold;
-	font-family: serif;
 }
 
 #main .info .text1 {
