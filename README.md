@@ -1,4 +1,4 @@
-# DarthGoatius.github.io
+# LordGoatius.github.io
 Website For HGPS
 
 Hello! If you are here because I invited you, hello. 
