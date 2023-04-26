@@ -14,7 +14,7 @@ let index = 0;
 function cycleImage() {
     var imgToView = testList[indexIncrement()];
     var outputSpot = document.querySelector("output");
-    let outputStuff = `<img src="${imgToView}" alt="Cyclable Image" id = "cyclableImage width="500" height="500"">`;
+    let outputStuff = `<img src="${imgToView}" alt="Cyclable Image" id = "cyclableImage" width="500" height="500">`;
     outputSpot.innerHTML = outputStuff;
     console.log(index);
 }
